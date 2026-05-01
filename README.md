@@ -1,5 +1,5 @@
 # Junior Cybersecurity Analyst
-![alt text](jca.png)
+![alt text](JCA.png)
 
 ## Path Description:
 
