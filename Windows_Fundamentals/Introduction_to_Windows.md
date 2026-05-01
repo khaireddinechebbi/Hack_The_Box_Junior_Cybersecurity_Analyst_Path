@@ -9,6 +9,6 @@ What is the Build Number of the target workstation?
 
 ## Question 2:
 Which Windows NT version is installed on the workstation?
-```powershell
+```cmd
 Windows 10
 ```
