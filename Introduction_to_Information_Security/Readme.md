@@ -7,13 +7,13 @@ The module explores key topics such as the structure of information security, it
 # Questions:
 
 Q: What does the "C" in the CIA triad stand for?
-* A: `Confidentiality`
+* `Confidentiality`
 
 Q: What does the "DR" stand for?
-A: `Disaster Recovery`
+* `Disaster Recovery`
 
 Q: How many layers are typically included in device protection?
-A: `4` (Device Security, Data Security, Network Security, Application Security)
+* `4` (Device Security, Data Security, Network Security, Application Security)
 
 Q: What does "CISO" stands for?
-A: `Chief Information Security Officer`
+* `Chief Information Security Officer`
