@@ -36,5 +36,3 @@ In this module, we covered the ever-important network enumeration and scanning t
 * Host discovery, port scanning, service enumeration, and operating system detection
 * Working with saved Nmap scan results
 * Evading network defenses to obtain accurate scanning results
-
-&copy; Hack The Box
