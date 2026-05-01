@@ -1,4 +1,5 @@
-# Hack_The_Box_Junior_Cybersecurity_Analyst_Path
+# Junior Cybersecurity Analyst
+![alt text](jca.png)
 
 ## Path Description:
 
