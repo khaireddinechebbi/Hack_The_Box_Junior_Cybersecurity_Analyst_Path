@@ -7,7 +7,6 @@ The module explores key topics such as the structure of information security, it
 # Questions:
 
 Q: What does the "C" in the CIA triad stand for?
-
 A: `Confidentiality`
 
 Q: What does the "DR" stand for?
