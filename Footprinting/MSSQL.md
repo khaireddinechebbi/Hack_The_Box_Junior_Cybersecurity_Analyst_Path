@@ -1,0 +1,11 @@
+## Question 1:
+Enumerate the target using the concepts taught in this section. List the hostname of MSSQL server.
+```bash
+ILF-SQL-01
+```
+
+## Question 2:
+Connect to the MSSQL instance running on the target using the account (backdoor:Password1), then list the non-default database present on the server.
+```bash
+Employees
+```
