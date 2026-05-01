@@ -1,11 +1,40 @@
-# Description:
+# Module Description:
 
-This module provides a comprehensive theoretical introduction to Linux, covering the essential concepts and components required to understand and operate a Linux-based system effectively. It is designed to build a solid foundation for both system administration and cybersecurity applications.
+This module covers the fundamentals required to work comfortably with the Linux operating system and shell.
 
-The module begins with the fundamentals of Linux structure and distributions, followed by an introduction to the command-line environment, including the shell and prompt. It then guides learners through core system interactions such as navigation, working with files and directories, editing files, and searching for data.
+# Module Summary:
 
-In addition, the module explores key command-line concepts like file descriptors, redirection, filtering, and regular expressions. It also covers essential administrative tasks, including permission management, user management, package management, and service and process control.
+Linux is an indispensable tool and system in the field of cybersecurity. Many servers run on Linux and offer a wide range of possibilities for offensive security practitioners, network defenders, and systems administrators. This module covers the essentials for starting with the Linux operating system and terminal.
 
-Further topics include task scheduling, network services, web services, and system maintenance operations such as backup and restore, as well as file system management. The module also introduces modern technologies like containerization and covers important networking concepts, including network configuration and remote access protocols.
+In this module, we will cover:
 
-Security is a key focus, with dedicated sections on Linux security practices, firewall configuration, and system logging. Additional topics such as Solaris fundamentals and useful command-line shortcuts are also included to broaden the learner’s perspective.
+* Linux structure
+* Using the shell
+* Navigating the Linux operating system
+* Working with files and directories
+* Linux administration
+* Service management
+* Permissions management
+
+This module is broken down into sections with accompanying hands-on exercises to practice each of the tactics and techniques we cover. The module ends with a practical hands-on skills assessment to gauge your understanding of the various topic areas.
+
+As you work through the module, you will see example commands and command output for the various topics introduced. It is worth reproducing as many of these examples as possible to reinforce further the concepts introduced in each section. You can do this in the Pwnbox provided in the interactive sections or your own virtual machine.
+
+You can start and stop the module at any time and pick up where you left off. There is no time limit or "grading," but you must complete all of the exercises and the skills assessment to receive the maximum number of cubes and have this module marked as complete in any paths you have chosen.
+
+The module is classified as "Fundamental." It assumes that the user has little to no prior experience with the Linux operating system but is generally comfortable navigating a graphical operating system such as Windows.
+
+This module has no prerequisites but serves as the basis for many of the modules contained within the Academy. Completion and an in-depth understanding of this module are crucial for success as you progress through the Academy and Hack the Box platforms.
+
+# Conclusion:
+This module covered the essentials for working with the Linux operating system. As you progress through the Academy, you will continue to enhance and refine your skills on the command line and Linux operating system.
+
+# Module Key Takeaways:
+
+* Linux structure
+* Using the shell
+* Navigating the Linux operating system
+* Working with files and directories
+* Linux administration
+* Service management
+* Permissions management

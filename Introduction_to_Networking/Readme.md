@@ -1,9 +1,32 @@
-# Description:
+# Module Description:
 
-This module is entirely theoretical and introduces the fundamental concepts of computer networking. It is designed to build a strong foundational understanding of how networks are structured, how communication flows, and how systems interact within modern infrastructures.
+As an information security professional, a firm grasp of networking fundamentals and the required components is necessary. Without a strong foundation in networking, it will be tough to progress in any area of information security. Understanding how a network is structured and how the communication between the individual hosts and servers takes place using the various protocols allows us to understand the entire network structure and its network traffic in detail and how different communication standards are handled. This knowledge is essential to create our tools and to interact with the protocols.
 
-The module begins by exploring network structure, including different network types, topologies, and the role of proxies. It then examines network workflow through key models such as the OSI and TCP/IP models, providing insight into how data moves across layers.
+# Module Summary:
 
-Learners will also gain an understanding of addressing mechanisms, including IPv4 and IPv6 addressing, subnetting, and MAC addresses. In addition, the module covers essential protocols and terminology, highlighting commonly used protocols, VPNs, and vendor-specific technologies.
+This module covers core networking concepts that are fundamental for any IT professional.
 
-Finally, it introduces the basics of connection establishment, including key exchange mechanisms, authentication protocols, TCP/UDP communication, and fundamental cryptographic concepts.
+This module will cover the following topics:
+
+* The structure and design of the Internet
+* Which topologies are used
+* What for and what role the proxies play in the networks
+* Internet communication models and concepts
+* The difference between the OSI model and TCP/IP
+* How IPv4/IPv6 addressing is done in various networks
+
+You can start and stop the module at any time and pick up where you left off. There is no time limit or "grading," but you must complete all sections to receive the maximum number of cubes and have this module marked as complete in any paths you have chosen.
+
+The module is classified as "Fundamental," and the information taught within is crucial to be successful in any technical field.
+
+# Conclusion:
+
+In this module, we covered the following topics:
+
+* The types and structure of the Internet
+* Proxies
+* Different topologies
+* Models and concepts
+* OSI & TCP/IP
+* IPv4 & IPv6
+* Subnetting

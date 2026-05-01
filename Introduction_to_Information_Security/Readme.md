@@ -1,19 +1,31 @@
-# Description:
+# Module Description:
 
-This module is entirely theoretical and does not include hands-on exercises, but it covers many fundamental concepts and core principles of information security. It provides a structured overview of the field, helping build a solid foundation before moving into practical applications.
+This theoretical module provides a comprehensive introduction to the foundational components of information security, focusing on the structure and operation of effective InfoSec frameworks. It explores the theoretical roles of security applications across networks, software, mobile devices, cloud environments, and operational systems, emphasizing their importance in protecting organizational assets. Students will gain an understanding of common threats, including malware and advanced persistent threats (APTs), alongside strategies for mitigating these risks. The module also introduces the roles and responsibilities of security teams and InfoSec professionals, equipping students with the confidence to advance their knowledge and explore specialized areas within the field.
 
-The module explores key topics such as the structure of information security, its guiding principles, and the main security domains—including network security, application security, operational security, cloud security, mobile security, and IoT security. It also introduces common threats and the evolving landscape of cyber risks.
+# Module Summary:
 
-# Questions:
+This module is designed to provide a holistic understanding of cybersecurity and information security (InfoSec) practices, principles, and strategies. It is aimed at equipping professionals with the knowledge and skills required to safeguard organizational assets, mitigate risks, and respond to evolving cyber threats effectively. The module is organized into distinct topics that span the breadth of modern InfoSec challenges and solutions.
 
-Q: What does the "C" in the CIA triad stand for?
-* `Confidentiality`
+In this module, we will cover:
 
-Q: What does the "DR" stand for?
-* `Disaster Recovery`
+```bash
+- Structure of InfoSec
+- Security implementations
+- Threats
+- Security Teams
+- Roles
+```
 
-Q: How many layers are typically included in device protection?
-* `4` (Device Security, Data Security, Network Security, Application Security)
+This module is broken down into sections with accompanying hands-on exercises to practice each of the tactics and techniques we cover.
 
-Q: What does "CISO" stands for?
-* `Chief Information Security Officer`
+You can start and stop the module at any time and pick up where you left off. There is no time limit or "grading," but you must complete all of the exercises to receive the maximum number of cubes and have this module marked as complete in any paths you have chosen.
+
+# Conclusion:
+
+Throughout this module, you have developed a comprehensive understanding of the foundational components of information security. By exploring the Structure of InfoSec, you now have a clear grasp of how an effective security framework operates and how its interconnected elements work together to establish a strong and resilient security posture for organizations.
+
+You are now familiar with the theoretical aspects of security applications across networks, mobile devices, software, cloud environments, and operational systems. You understand their critical role in protecting organizational assets and maintaining a secure environment.
+
+Additionally, you have gained a solid understanding of the various threats organizations face, from malware and phishing to advanced persistent threats (APTs). You can identify the strategies used to mitigate these risks and have insight into the importance of proactive defense mechanisms. Furthermore, you now understand the roles and responsibilities of security teams, including red, blue, and purple teams, and how they collaborate to enhance organizational defenses.
+
+Finally, you have a strong foundational awareness of the roles within InfoSec, from entry-level positions to strategic leadership roles such as the Chief Information Security Officer (CISO). This insight equips you with the confidence to explore specialized areas of cybersecurity and provides a solid base for advancing your expertise in the field.
