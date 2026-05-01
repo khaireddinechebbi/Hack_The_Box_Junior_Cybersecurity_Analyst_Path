@@ -7,4 +7,6 @@ echo ${domains[0]}
 
 ## Question:
 Submit the echo statement that would print "www2.inlanefreight.com" when running the last "Arrays.sh" script.
-* `echo ${domains[1]}`
+```bash
+echo ${domains[1]}
+```

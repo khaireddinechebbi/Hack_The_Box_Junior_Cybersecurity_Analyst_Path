@@ -46,4 +46,6 @@ fi
 
 ## Question:
 Create a "For" loop that encodes the variable "var" 28 times in "base64". The number of characters in the 28th hash is the value that must be assigned to the "salt" variable.
-* `HTBL00p5r0x`
+```bash
+HTBL00p5r0x
+```

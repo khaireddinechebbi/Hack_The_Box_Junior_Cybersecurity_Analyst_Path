@@ -1,11 +1,17 @@
 ## Question 1:
 Which option needs to be set to create a home directory for a new user using "useradd" command?
-* `-m`
+```bash
+-m
+```
 
 ## Question 2:
 Which option needs to be set to lock a user account using the "usermod" command?
-* `--lock`
+```bash
+--lock
+```
 
 ## Question 3:
 Which option needs to be set to execute a command as a different user using the "su" command?
-* `--command`
+```bash
+--command
+```

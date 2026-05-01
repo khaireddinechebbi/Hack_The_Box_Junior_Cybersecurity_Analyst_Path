@@ -1,3 +1,5 @@
 ## Question:
 How many partitions exist in our Pwnbox?
-* `3`
+```bash
+3
+```
